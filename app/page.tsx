@@ -2,7 +2,7 @@ import React from 'react';
 import { WidgetProfile } from '../components/WidgetProfile'
 import { WidgetVideo } from '../components/WidgetVideo'
 import { WidgetAboutDoctor } from '../components/WidgetAboutDoctor'
-import { WidgetServicesAndConditions } from '../components/WidgetServicesAndConditions'
+import WidgetServicesAndConditions from '../components/WidgetServicesAndConditions'
 import { WidgetTestimonialCarousel } from '../components/WidgetTestimonialCarousel'
 import { WidgetPricesAndPackages } from '../components/WidgetPricesAndPackages'
 import { WidgetBookConsultation } from '../components/WidgetBookConsultation'
