@@ -82,6 +82,9 @@ export default function Home() {
 ]}
         isDarkMode={true}
         className=""
+        onAskCondition={() => {
+    alert("Ask about a condition!");
+  }}
       />
       <WidgetTestimonialCarousel
         testimonials={[
