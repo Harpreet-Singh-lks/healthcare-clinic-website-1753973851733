@@ -125,3 +125,4 @@ export const WidgetPricesAndPackages: React.FC<WidgetPricesAndPackagesProps> = (
     </div>
   );
 }; 
+export default WidgetPricesAndPackages;
